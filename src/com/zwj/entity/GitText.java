@@ -10,5 +10,6 @@ public class GitText {
         System.out.println("version1.1");
         System.out.println("version1.2");
         System.out.println("version1.3");
+        System.out.println("冲突测试master");
     }
 }
