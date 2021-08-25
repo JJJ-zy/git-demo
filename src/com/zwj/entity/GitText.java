@@ -14,5 +14,6 @@ public class GitText {
         System.out.println("冲突测试 hot-fix");
         System.out.println("push测试");
         System.out.println("push测试2ssh");
+        System.out.println("pull测试")
     }
 }
