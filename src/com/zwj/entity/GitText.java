@@ -12,5 +12,6 @@ public class GitText {
         System.out.println("version1.3");
         System.out.println("冲突测试master");
         System.out.println("冲突测试 hot-fix");
+        System.out.println("push测试");
     }
 }
